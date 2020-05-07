@@ -1,0 +1,11 @@
+ID,age,sex,country,date_confirmation,recovered
+1,54,other,china,2020-03-09,yes
+2,3,other,USA,2020-02-21,no
+3,57,male,USA,2020-06-19,no
+4,83,other,USA,2020-06-16,no
+5,64,male,USA,2020-04-17,no
+6,59,male,india,2020-01-25,no
+7,15,other,china,2020-02-09,no
+8,88,male,china,2020-03-18,no
+9,32,male,spain,2020-01-14,yes
+10,29,male,india,2020-03-26,yes
